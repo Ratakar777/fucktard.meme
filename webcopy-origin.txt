@@ -1,0 +1,312 @@
+Uri: https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap
+File Name: C:\Downloaded Web Sites\fucktard.meme\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap
+File Name: C:\Downloaded Web Sites\fucktard.meme\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+File Name: C:\Downloaded Web Sites\fucktard.meme\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+File Name: C:\Downloaded Web Sites\fucktard.meme\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v23/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vq_ROW9.ttf
+File Name: C:\Downloaded Web Sites\fucktard.meme\s\robotomono\v23\L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vq_ROW9.ttf
+Content Type: font/ttf
+
+Uri: https://fucktard.meme/
+File Name: C:\Downloaded Web Sites\fucktard.meme\index.htm
+Content Type: text/html
+
+Uri: https://fucktard.meme/carousel.js
+File Name: C:\Downloaded Web Sites\fucktard.meme\carousel.js
+Content Type: application/javascript
+
+Uri: https://fucktard.meme/easter_egg.js
+File Name: C:\Downloaded Web Sites\fucktard.meme\easter_egg.js
+Content Type: application/javascript
+
+Uri: https://fucktard.meme/favicon.png
+File Name: C:\Downloaded Web Sites\fucktard.meme\favicon.png
+Content Type: image/png
+
+Uri: https://fucktard.meme/fucktard1.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard1.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard10.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard10.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard11.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard11.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard12.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard12.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard13.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard13.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard14.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard14.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard15.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard15.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard16.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard16.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard17.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard17.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard18.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard18.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard19.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard19.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard2.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard2.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard20.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard20.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard21.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard21.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard22.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard22.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard23.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard23.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard24.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard24.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard25.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard25.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard26.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard26.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard27.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard27.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard28.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard28.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard29.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard29.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard3.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard3.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard30.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard30.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard31.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard31.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard32.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard32.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard33.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard33.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard34.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard34.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard35.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard35.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard36.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard36.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard37.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard37.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard38.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard38.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard39.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard39.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard4.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard4.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard40.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard40.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard41.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard41.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard42.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard42.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard43.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard43.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard44.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard44.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard45.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard45.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard46.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard46.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard47.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard47.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard48.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard48.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard49.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard49.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard5.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard5.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard50.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard50.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard51.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard51.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard52.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard52.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard53.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard53.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard54.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard54.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard55.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard55.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard56.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard56.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard57.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard57.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard58.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard58.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard59.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard59.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard6.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard6.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard60.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard60.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard61.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard61.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard62.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard62.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard63.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard63.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard64.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard64.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard65.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard65.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard66.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard66.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard7.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard7.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard8.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard8.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/fucktard9.jpeg
+File Name: C:\Downloaded Web Sites\fucktard.meme\fucktard9.jpeg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/header-image.jpg
+File Name: C:\Downloaded Web Sites\fucktard.meme\header-image.jpg
+Content Type: image/jpeg
+
+Uri: https://fucktard.meme/scattered.js
+File Name: C:\Downloaded Web Sites\fucktard.meme\scattered.js
+Content Type: application/javascript
+
+Uri: https://fucktard.meme/style.css
+File Name: C:\Downloaded Web Sites\fucktard.meme\style.css
+Content Type: text/css
+
